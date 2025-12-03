@@ -1,0 +1,14 @@
+{
+    "name": "Mob/Pair Programming",
+    "image": "mcr.microsoft.com/devcontainers/universal:latest",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-vsliveshare.vsliveshare",
+                "EditorConfig.EditorConfig",
+                "analytic-signal.preview-pdf"
+            ]
+        }
+    }
+}
